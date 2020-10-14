@@ -1,4 +1,4 @@
-package com.example.cs3200fall2020le;
+package edu.northeastern.cs3200fall2020le;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

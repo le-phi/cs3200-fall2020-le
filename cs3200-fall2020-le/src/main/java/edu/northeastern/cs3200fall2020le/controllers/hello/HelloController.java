@@ -1,4 +1,4 @@
-package com.example.cs3200fall2020le.controllers.hello;
+package edu.northeastern.cs3200fall2020le.controllers.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
