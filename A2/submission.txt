@@ -1,0 +1,6 @@
+hostname: localhost
+username: root
+password: n/a
+port: 3306
+
+note: create.sql, triggers.sql, and inserts.sql have been combined into a2_export
